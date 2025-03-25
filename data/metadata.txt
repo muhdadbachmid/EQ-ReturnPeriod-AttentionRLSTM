@@ -1,0 +1,52 @@
+# Metadata for Earthquake Dataset (USGS)
+
+This file provides descriptions of the columns in the earthquake dataset sourced from the United States Geological Survey (USGS). Each variable is explained in detail to facilitate understanding and analysis.
+
+## Column Descriptions:
+
+1. **time**: Date and time of the earthquake occurrence in UTC (Coordinated Universal Time). This is crucial for temporal analysis, such as identifying trends or time patterns.
+
+2. **latitude**: Latitude coordinate of the earthquake epicenter in degrees. Used together with longitude to determine the geographical location of the earthquake.
+
+3. **longitude**: Longitude coordinate of the earthquake epicenter in degrees. Used in conjunction with latitude for location determination.
+
+4. **depth**: Depth of the earthquake's epicenter measured from the Earth's surface, in kilometers. The depth can affect the earthquake’s impact on the surface.
+
+5. **mag**: Earthquake magnitude, representing the strength of the earthquake. This is measured using different methods and is crucial for determining the scale of the earthquake’s impact.
+
+6. **magType**: Type of magnitude measurement, such as mb (Body wave magnitude), ms (Surface wave magnitude), mw (Moment magnitude), etc. Different types of magnitude are used for earthquakes with different characteristics.
+
+7. **nst**: Number of seismic stations that detected the earthquake. A higher number of stations can improve data accuracy.
+
+8. **gap**: The azimuthal gap (in degrees) between the two farthest seismic stations detecting the earthquake. A large gap may indicate higher uncertainty in locating the earthquake.
+
+9. **dmin**: Minimum horizontal distance from the earthquake epicenter to the nearest seismic station, measured in degrees. This helps determine location accuracy.
+
+10. **rms**: Root Mean Square of the residuals (difference between observed and predicted arrival times of seismic waves). This value indicates the accuracy of the seismic model in estimating the earthquake’s location.
+
+11. **net**: Seismic network that reported the earthquake data, e.g., "us" for USGS. This helps track data sources and measurement methodologies.
+
+12. **id**: Unique identifier for each earthquake event. Useful for identifying and referencing specific earthquakes in data analysis.
+
+13. **updated**: Timestamp of the last update to the data. This ensures that the dataset used is the most accurate and up-to-date.
+
+14. **place**: Description of the nearest location to the earthquake epicenter, such as a city or landmark. This provides a more intuitive geographical context.
+
+15. **type**: Type of seismic event, such as "earthquake" or "quarry blast." Helps in categorizing different seismic activities.
+
+16. **horizontalError**: Estimated error in the horizontal location of the earthquake epicenter, in kilometers. This indicates uncertainty in geographical positioning.
+
+17. **depthError**: Estimated error in the depth of the earthquake epicenter, in kilometers. This reflects the uncertainty in depth estimation.
+
+18. **magError**: Estimated error in the earthquake magnitude. Indicates uncertainty in assessing the earthquake's strength.
+
+19. **magNst**: Number of magnitude measurements taken. This can indicate the reliability of the magnitude estimation.
+
+20. **status**: Data review status, such as "reviewed" (manually verified) or "automatic" (automatically generated and not yet reviewed). This helps assess data reliability.
+
+21. **locationSource**: Source that determined the earthquake’s location. Important for tracking methodologies and reliability of location determination.
+
+22. **magSource**: Source that determined the earthquake’s magnitude. Knowing the measurement source helps assess data consistency and accuracy.
+
+---
+This metadata file serves as a reference for understanding the dataset and ensuring proper analysis.

@@ -1,0 +1,12 @@
+# Data Sources and References
+
+## Earthquake Data Source:
+The earthquake dataset used in this study was obtained from the United States Geological Survey (USGS) Earthquake Catalog. The data was retrieved using the following search criteria:
+
+- **Geographical Region**: Sulawesi Island, Indonesia  
+- **Latitude Range**: -6.184° to 2.021°  
+- **Longitude Range**: 118.433° to 125.552°  
+- **Time Period**: 1974 - 2024  
+
+The dataset was collected from the official USGS Earthquake Catalog:  
+🔗 [USGS Earthquake Search](https://earthquake.usgs.gov/earthquakes/search/)
