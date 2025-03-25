@@ -2,7 +2,7 @@
 
 ## Research Overview
 
-This research presents an innovative approach to predicting earthquake return periods in the Sulawesi region of Indonesia using an advanced machine learning technique: Attention-based Residual Long Short-Term Memory (Residual LSTM).
+This research presents an innovative approach to predicting earthquake return periods in the Sulawesi region of Indonesia using an advanced machine learning technique: Attention-based Residual Long Short-Term Memory (Residual LSTM). 
 
 ## Key Features
 
