@@ -67,4 +67,7 @@ While the model shows promising results, further research could:
 If you use this research or model, please cite the original paper.
 
 ## License
+
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
 ## Contact
