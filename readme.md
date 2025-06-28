@@ -62,9 +62,24 @@ While the model shows promising results, further research could:
 - Incorporate additional geological data
 - Refine the attention mechanism
 
-## Citation
+## 📑 Citation
 
-If you use this research or model, please cite the original paper.
+If you use this research or model, please cite the original paper:
+
+Bachmid, M., Sengkey, D., & Manoppo, F. (2025). Attention-based Residual Long Short-Term Memory for Earthquake Return Period Prediction in the Sulawesi Region. *Jurnal Ilmu Komputer Dan Informasi*, 18(2), 217–228. https://doi.org/10.21609/jiki.v18i2.1506
+
+```bibtex
+@article{bachmid2025attention,
+  author  = {Bachmid, M. and Sengkey, D. and Manoppo, F.},
+  title   = {Attention-based Residual Long Short-Term Memory for Earthquake Return Period Prediction in the Sulawesi Region},
+  journal = {Jurnal Ilmu Komputer Dan Informasi},
+  volume  = {18},
+  number  = {2},
+  pages   = {217--228},
+  year    = {2025},
+  doi     = {10.21609/jiki.v18i2.1506}
+}
+
 
 ## License
 
