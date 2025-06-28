@@ -66,7 +66,7 @@ While the model shows promising results, further research could:
 
 If you use this research or model, please cite the original paper:
 
-Bachmid, M., Sengkey, D., & Manoppo, F. (2025). Attention-based Residual Long Short-Term Memory for Earthquake Return Period Prediction in the Sulawesi Region. *Jurnal Ilmu Komputer Dan Informasi*, 18(2), 217–228. https://doi.org/10.21609/jiki.v18i2.1506
+Bachmid, M., Sengkey, D., & Manoppo, F. (2025). Attention-based Residual Long Short-Term Memory for Earthquake Return Period Prediction in the Sulawesi Region. *Jurnal Ilmu Komputer Dan Informasi*, 18(2), 217–228. https://jiki.cs.ui.ac.id/index.php/jiki/article/view/1506
 
 
 ## License
