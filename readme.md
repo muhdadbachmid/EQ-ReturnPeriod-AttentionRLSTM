@@ -1,4 +1,4 @@
-# Earthquake Return Period Prediction in Sulawesi Region
+# Earthquake Return Period Prediction in Sulawesi Region 
 
 ## Research Overview
 
